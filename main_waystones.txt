@@ -1,0 +1,3 @@
+The castle: -1275 498
+Apotheosis: 1051 1263
+Evil island base: 100 -112
